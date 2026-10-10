@@ -6,9 +6,17 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/mohammed-ehab-694378197/"
+
+- type: htb
+  icon: "fas fa-cube"
+  url: "https://profile.hackthebox.com/profile/019ee288-5b66-704f-bc8e-4099e6ba6c0c"
+
+- type: medium
+  icon: "fab fa-medium"
+  url: "https://medium.com/@mohammad.ehab7760"
 
 - type: rss
   icon: "fas fa-rss"
